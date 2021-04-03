@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Alex Ashmun Music</title>
+    <!--INCLUDING BOOTSTRAP-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+
+<body class="home">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <a class="btn border-dark" a href="http://www.alexashmun.com/music">music</a>
+            <a class="btn border-dark" a href="http://www.alexashmun.com/photo">photo</a>
+            <a class="btn border-dark" a href="http://www.alexashmun.com/video">video</a>
+            <a class="btn border-dark" a href="http://www.alexashmun.com/other">other</a>
+        </div>
+        <div class="row justify-content-center">
+            <img src="https://thumbs.gfycat.com/HoarseCoarseCreature-max-1mb.gif" class="img-fluid">
+        </div>
+</body>
+
+</html>
